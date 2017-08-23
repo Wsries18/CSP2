@@ -1,0 +1,80 @@
+
+body{
+     font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+ 	 color: #003366;
+	 background-color:
+}
+h1 {
+	font-size: 2.3em;
+	text-align: center;
+	color:#FF0000;
+}	
+
+div.scrollmenu {
+	background-color: #333;
+	overflow: auto;
+	white-space: nowrap;
+}
+
+div.scrollmenu a{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px;
+	text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+	background-color: #777;
+}
+table {
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	text-align: left;
+ 	border-collapse: collapse;
+}
+tr   {
+	border: 1px solid #ffffff;
+	text-align: left;
+}
+
+th   {
+    text-align: left;
+	color: #ffffff;
+	background-color: #333333;
+}
+body2{
+background:black;
+font: arial;
+text-align: center;
+margin: 5% auto;
+background-size: cover;
+background-repeat: no-repeat;
+text-shadow: 5px 0 0 #000, 0 -3px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+min-width: 100%;
+min-height: 100%;
+position:fixed;
+background-color: blue;
+
+}
+
+header{
+  font-size:50px;
+  color: white;
+}
+button {  
+  border: 2px solid blue;
+  background-color:;
+  padding: 10px;
+  font-size: 100%;
+  width: 30%
+}
+button:hover{
+  color:blue;
+}
+
+.quote{
+  color: white;
+  font-size: 50px;
+}
+
