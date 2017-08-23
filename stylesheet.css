@@ -2,11 +2,13 @@
 body{
      font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
  	 color: #003366;
+	 background-color:orange
 }
 h1 {
 	font-size: 2.3em;
 	text-align: center;
-	color:#FF0000;
+	color:blue;
+	
 }	
 
 div.scrollmenu {
@@ -53,6 +55,7 @@ text-shadow: 5px 0 0 #000, 0 -3px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
 min-width: 100%;
 min-height: 100%;
 position:fixed;
+background-color: blue;
 
 }
 
