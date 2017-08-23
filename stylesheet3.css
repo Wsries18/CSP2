@@ -17,23 +17,7 @@
 	80%{color: blue;}
 	100%{color: orange;}	
 }
-/* Internet Explorer */
-@-ms-keyframes rainbow{
-	20%{color: red;}
-	40%{color: yellow;}
-	60%{color: green;}
-	80%{color: blue;}
-	100%{color: orange;}	
-}
 
-/* Standar Syntax */
-@keyframes rainbow{
-	20%{color: red;}
-	40%{color: yellow;}
-	60%{color: green;}
-	80%{color: blue;}
-	100%{color: orange;}	
-}
 body{
   background-image: url(http://fjordstudio.dk/assets/img/bg/diamonds.png);
 }
